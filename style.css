@@ -13,3 +13,8 @@
     margin: 10px;
     float: left;
 }
+@media (max-width: 1250px) {
+    .cards{
+        margin-left: 25vw;
+    }
+}
